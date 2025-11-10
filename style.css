@@ -382,7 +382,7 @@ input ,select, textarea {
     h1 {
     font-size: 1.3rem !important;
     text-shadow: 1px 1px 0 #fff, -1px 1px 0 #fff, 1px -1px 0 #fff, -1px -1px 0 #fff;
-    top: 35%;
+    top: 20%;
     left: 50%;
     transform: translateY(-50%) translateX(-50%);
     }
@@ -450,3 +450,4 @@ input ,select, textarea {
 }
 
     
+
